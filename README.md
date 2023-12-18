@@ -10,7 +10,33 @@
   
   The menu contain:
     
-    1.Play - start the game
-    2.Setting 
-      - Matrix brightnessl: the user can set the brithness of the Matrix
-      - LCD brightness: the user can set the brightness of the LCD
+  1.Play - start the game
+  2.Setting 
+    - Matrix brightnessl: the user can set the brithness of the Matrix
+    - LCD brightness: the user can set the brightness of the LCD
+    - Sounds: the user can choose between sounds on or off
+    - Player name: the user can enter their name (3-letter name)
+  3.About - information about the author
+
+# Components
+-8x8 LED matrix
+-Matrix driver
+-Joystick
+-Button
+-Buzzer
+-LCD
+-10 uF 50V capacitor
+-104 ceramic capacitor
+-Resistors
+-Cables
+-Arduino Uno Board
+
+# Photos
+
+![the picture](IMG_6309.png)
+
+![the picture](IMG_6310.png)
+
+# Video
+
+https://youtu.be/YgcXK1NC-ys
