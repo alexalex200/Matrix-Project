@@ -7,29 +7,33 @@
 
 # How to use the menu
   When the board is powered up, a greeting message appears on the LCD. The user must press the button to access the menu.
+
+The menu contain:
+
+1.Play - start the game
   
-  The menu contain:
+2.Setting
+  - Matrix brightnessl: the user can set the brithness of the Matrix
     
-  1.Play - start the game
-  2.Setting 
-    - Matrix brightnessl: the user can set the brithness of the Matrix
-    - LCD brightness: the user can set the brightness of the LCD
-    - Sounds: the user can choose between sounds on or off
-    - Player name: the user can enter their name (3-letter name)
-  3.About - information about the author
+  - LCD brightness: the user can set the brightness of the LCD
+    
+  - Sounds: the user can choose between sounds on or off
+  
+  - Player name: the user can enter their name (3-letter name)
+3.About - information about the author
 
 # Components
-- 8x8 LED matrix
-- Matrix driver
-- Joystick
-- Button
-- Buzzer
-- LCD
-- 10 uF 50V capacitor
-- 104 ceramic capacitor
-- Resistors
-- Cables
-- Arduino Uno Board
+  - 8x8 LED matrix
+  - Matrix driver
+  - Joystick
+  - Button
+  - Buzzer
+  - LCD
+  - 10 uF 50V capacitor
+  - 104 ceramic capacitor
+  - Resistors
+  - Cables
+  - Arduino Uno Board
 
 # Photos
 
