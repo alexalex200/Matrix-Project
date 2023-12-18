@@ -38,9 +38,9 @@ The menu contain:
 
 # Photos
 
-![the picture](IMG_6379.png)
+![the picture](IMG_6379.jpeg)
 
-![the picture](IMG_6380.png)
+![the picture](IMG_6380.jpeg)
 
 # Video
 
