@@ -20,6 +20,7 @@ The menu contain:
   - Sounds: the user can choose between sounds on or off
   
   - Player name: the user can enter their name (3-letter name)
+    
 3.About - information about the author
 
 # Components
