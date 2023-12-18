@@ -19,17 +19,17 @@
   3.About - information about the author
 
 # Components
--8x8 LED matrix
--Matrix driver
--Joystick
--Button
--Buzzer
--LCD
--10 uF 50V capacitor
--104 ceramic capacitor
--Resistors
--Cables
--Arduino Uno Board
+- 8x8 LED matrix
+- Matrix driver
+- Joystick
+- Button
+- Buzzer
+- LCD
+- 10 uF 50V capacitor
+- 104 ceramic capacitor
+- Resistors
+- Cables
+- Arduino Uno Board
 
 # Photos
 
