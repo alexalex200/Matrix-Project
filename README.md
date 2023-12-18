@@ -38,10 +38,9 @@ The menu contain:
 
 # Photos
 
-![the picture](IMG_6309.png)
+![the picture](IMG_6379.png)
 
-![the picture](IMG_6310.png)
+![the picture](IMG_6380.png)
 
 # Video
 
-https://youtu.be/YgcXK1NC-ys
